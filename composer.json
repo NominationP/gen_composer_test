@@ -1,0 +1,10 @@
+{
+    "name": "root/gen_composer",
+    "authors": [
+        {
+            "name": "NominationP",
+            "email": "605166577@qq.com"
+        }
+    ],
+    "require": {}
+}
